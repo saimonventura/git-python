@@ -8,7 +8,6 @@ Vanderlei P. Carvalho
 
 ## Como eu clonei o projeto
 
-[Descreva aqui o método que você escolheu: linha de comando, GitHub Desktop ou VS Code]
     Utilizei a linha de comando para clonar o repositório (descrita abaixo). Porém não utilizei o comando SSH, e sim o HTTPS.
 
 ## Passos que segui
